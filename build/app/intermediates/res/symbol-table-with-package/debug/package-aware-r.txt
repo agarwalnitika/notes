@@ -1,0 +1,4 @@
+com.example.calendar
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
